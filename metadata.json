@@ -1,0 +1,8 @@
+{
+  "name": "Tanglish Editor Pro",
+  "description": "Professional Tamil subtitle editor for converting Tamil text to natural spoken Tanglish, featuring AI video generation and real-time voice assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
